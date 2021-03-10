@@ -18,7 +18,7 @@
 	"repository": {
 		"headings": {
 			"name": "markup.heading.gemini",
-			"begin": "#",
+			"begin": "^#",
 			"end": "\n"
 		},
 		"raw": {
